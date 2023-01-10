@@ -160,6 +160,7 @@ html {
     font-size: 7.44rem;
     color: #10b0d8;
      line-height:0.87;
+     text-align: center;
   }
   
   .quote {
@@ -172,6 +173,7 @@ html {
     font-size: 3.55rem;
     font-weight: 800;
      line-height:1.2;
+     text-align: center;
   }
   
   @media only screen and (max-width: 680px) {
